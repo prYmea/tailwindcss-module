@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/nuxt-community/tailwindcss-module/compare/v2.1.1...v3.0.0) (2020-08-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* ability to extend the Tailwind config (#133)
+
+### Features
+
+* ability to extend the Tailwind config ([#133](https://github.com/nuxt-community/tailwindcss-module/issues/133)) ([9d297b2](https://github.com/nuxt-community/tailwindcss-module/commit/9d297b22fc20b41fafe897ccfb21cd98ac66c1ce)), closes [#131](https://github.com/nuxt-community/tailwindcss-module/issues/131)
+
+### [2.1.1](https://github.com/nuxt-community/tailwindcss-module/compare/v2.1.0...v2.1.1) (2020-07-29)
+
+## [2.1.0](https://github.com/nuxt-community/tailwindcss-module/compare/v1.4.1...v2.1.0) (2020-07-20)
+
+
+### Features
+
+* use tailwind v1.4 and use purge option ([#95](https://github.com/nuxt-community/tailwindcss-module/issues/95)) ([09c0ee5](https://github.com/nuxt-community/tailwindcss-module/commit/09c0ee570c9e21c53864a1466f49552dc48a35c7))
+
+
+### Bug Fixes
+
+* force production env for postcss on nuxt build ([977d605](https://github.com/nuxt-community/tailwindcss-module/commit/977d605858891396c7a689cf545b85e4fc718b52))
+
 ### [1.4.1](https://github.com/nuxt-community/tailwindcss-module/compare/v1.4.0...v1.4.1) (2020-04-22)
 
 
